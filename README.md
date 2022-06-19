@@ -18,8 +18,9 @@ Setup:
 
 Info:
 
-Official Discord: https://discord.gg/Crc92V59ck
+Official Discord: https://discord.gg/QjXD22XwWK
 
-developer is blob#0005
+Coded by blob
 
-if have any problem running program or want me add anything feel free to add my discord blob#0005
+Prank your freindS and enjoy life
+![unknown](https://user-images.githubusercontent.com/107792605/174496988-df9428ff-ecb2-435e-b4eb-bbfacae28a2f.png)
