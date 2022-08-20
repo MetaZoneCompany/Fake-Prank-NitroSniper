@@ -23,4 +23,4 @@ Official Discord: https://discord.gg/QjXD22XwWK
 Coded by blob
 
 Prank your freindS and enjoy life
-![unknown](https://user-images.githubusercontent.com/107792605/174496988-df9428ff-ecb2-435e-b4eb-bbfacae28a2f.png)
+
