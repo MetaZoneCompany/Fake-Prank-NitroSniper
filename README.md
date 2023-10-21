@@ -18,9 +18,9 @@ Setup:
 
 Info:
 
-Official Discord: https://discord.gg/QjXD22XwWK
+Official Discord: mxarya
 
-Coded by blob
+
 
 Prank your freindS and enjoy life
 
